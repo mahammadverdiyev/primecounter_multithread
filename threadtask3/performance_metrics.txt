@@ -1,0 +1,8 @@
+Thread count: 1, Performance: 38.102 seconds
+Thread count: 2, Performance: 24.194 seconds
+Thread count: 3, Performance: 17.508 seconds
+Thread count: 4, Performance: 13.415 seconds
+Thread count: 6, Performance: 9.142 seconds
+Thread count: 12, Performance: 7.963 seconds
+Thread count: 24, Performance: 7.485 seconds
+Thread count: 48, Performance: 7.547 seconds
